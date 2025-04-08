@@ -16,13 +16,17 @@ BaseClass acts as a test setup and teardown utility for Selenium tests using Tes
 
 ## 📁 Project Structure
 
-
 ```
 📦 src
 ├── 🧱 BassClass/         # Base class to initialize and connect WebDriver
 ├── 📄 TestCases/         # Test scripts defining the expected conditions/behaviors
 └── 🧭 PageObject/        # Page Object Models representing UI elements
 ```
+## 🧪Selenium Java
+
+- Purpose: Selenium is a popular web automation tool. The selenium-java dependency provides the core Selenium WebDriver API to automate browser actions for testing web applications.
+- Usage: It is used for automating browser interactions, running tests, and simulating user actions (like clicking, typing, navigating).
+
 
 ## 🎯 Goals
 ```
