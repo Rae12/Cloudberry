@@ -14,3 +14,13 @@ This project is built for data-driven testing with features like Excel data inpu
 ├── 🧪 TestCases/          # Core test scripts and validations
 ├── 📸 ScreenshotUtil/     # Captures screenshots on test failure
 ├── 📈 ExtentReports/      # Generates interactive test reports
+
+📦 Apache POI Dependency
+This project uses Apache POI for reading and writing Excel files.
+Make sure to include the following dependency in your pom.xml (Maven) file:
+
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>5.4.0</version>
+</dependency>
