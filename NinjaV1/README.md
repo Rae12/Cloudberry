@@ -4,7 +4,7 @@
 This project is designed for efficient and scalable web application testing using WebDriver, built with a clean Page Object Model (POM) structure.
 
 
-##✅ Purpose of the Class
+## ✅ Purpose of the Class
 
 BaseClass acts as a test setup and teardown utility for Selenium tests using TestNG. It provides:
 
@@ -33,11 +33,12 @@ BaseClass acts as a test setup and teardown utility for Selenium tests using Tes
 ✅ Write robust test cases to validate web application functionality.
 ```
 ## 💡 Summary
+
 This class:
-```
+
 - Starts and stops a Chrome browser for tests.
 
 - Loads test configuration from a file.
 
 - Provides a method to capture screenshots for debugging or reports.
-```
+
