@@ -57,7 +57,7 @@ The maven-surefire-plugin runs your tests (e.g., TestNG tests) as defined in a t
   </plugins>
 </build>
 ```
-### Key Features:
+## 🧠Key Features:
 1. **Project Structure**: Provides an overview of the project, with a focus on the organization of Java code, test cases, and resources like `run.dat` files.
 2. **Working with `run.dat` Files**: Explains how to handle both text-based and binary `run.dat` files.
 3. **Maven Plugins**: Describes the `maven-compiler-plugin` and `maven-surefire-plugin` used for compiling and running tests.
