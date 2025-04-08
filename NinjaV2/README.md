@@ -37,3 +37,14 @@ Make sure to include the following dependency in your pom.xml (Maven) file:
     <version>5.4.0</version>
 </dependency>
 ```
+## 📦ExtentReports:
+- Purpose: ExtentReports is a library used for generating detailed and customizable test reports.
+- Usage: It is used to create interactive and visually appealing reports for your automated tests, including logs, screenshots, and pass/fail results. You can use it to track test execution and generate insights into test progress.
+```
+<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>5.1.2</version>
+</dependency>
+```
+
