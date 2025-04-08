@@ -4,7 +4,19 @@ Welcome to the **BaseClass Automation Framework**!
 This base class simplifies the setup and execution of automated tests by providing configurable, cross-browser support, **parallel test execution**, and more.
 
 ---
+## 📦TestNG
+- Purpose: TestNG is a testing framework inspired by JUnit, but it includes more features like parallel test execution, test configuration, etc.
 
+- Usage: This dependency allows you to write and execute tests. It's used for organizing tests, running them in parallel, and generating test reports. The <scope>test</scope> indicates that it's only needed for testing and won't be included in the production build.
+```
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.10.2</version>
+    <scope>test</scope>
+</dependency>
+```
+---
 ## ✅ Summary: What This BaseClass Enables
 
 ### Feature Descriptions
