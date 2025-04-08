@@ -13,6 +13,28 @@ This simplified version of the BaseClass is designed to work with **local WebDri
 ├── 🧪 TestCases/             # Test scripts utilizing the local WebDriver
 └── 📝 Logs/                  # Logs of WebDriver actions and test executions
 ```
+## 🧹Code Cleanup Example:
+```
+            WebDriver localDriver;
+
+            switch (br.toLowerCase()) {
+                case "chrome":
+                    log.info("Launching Chrome Browser");
+                    localDriver = new ChromeDriver();
+                    break;
+                case "edge":
+                    log.info("Launching Edge Browser");
+                    localDriver = new EdgeDriver();
+                    break;
+                case "firefox":
+                    log.info("Launching Firefox Browser");
+                    localDriver = new FirefoxDriver();
+                    break;
+                default:
+                    log.error("Invalid browser name provided: {}", br);
+                    throw new IllegalArgumentException("No matching browser found: " + br);
+            }
+```
 ---
 ### 🧠 Key Features of the Local WebDriver BaseClass
 1. **Project Structure**: Clear explanation of the local WebDriver setup and its structure.
