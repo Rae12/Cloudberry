@@ -1,0 +1,941 @@
+2025-02-14 09:51:00 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ravon\Desktop\CloudBerry Tools\NinjaV4\testng.xml"
+2025-02-14 09:51:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ravon\Desktop\CloudBerry Tools\NinjaV4\testng.xml
+
+2025-02-14 09:51:03 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 09:51:03 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 09:51:03 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 09:51:03 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:51:03 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 09:51:03 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:51:03 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:51:03 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 09:51:03 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 09:51:25 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:51:25 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:51:28 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:51:29 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-14 09:51:29 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-14 09:51:29 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-14 09:51:33 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-14 09:51:33 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-14 09:51:33 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-14 09:51:34 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:51:35 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:51:35 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-14 09:51:35 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-14 09:51:35 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-14 09:51:37 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-14 09:51:37 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-14 09:51:37 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-14 09:51:37 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:51:46 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:51:51 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:51:51 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-14 09:51:51 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-14 09:51:51 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-14 09:51:51 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-14 09:51:51 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-14 09:51:51 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-14 09:51:51 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:51:52 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:51:52 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 09:51:52 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:51:52 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 09:51:52 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:51:52 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 09:51:52 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:51:52 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 09:52:00 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:52:03 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:52:05 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:52:05 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-14 09:52:05 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 09:52:06 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:52:06 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 09:52:06 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:52:06 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 09:52:07 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:52:07 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-14 09:52:07 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 09:52:11 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-14 09:52:12 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-14 09:52:14 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-14 09:52:15 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-14 09:52:16 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-14 09:52:16 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-14 09:52:16 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-14 09:52:16 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-14 09:52:16 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:52:18 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-14 09:52:18 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-14 09:52:18 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-14 09:52:18 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-14 09:52:18 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:52:22 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:52:26 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:52:26 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 09:52:26 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:52:26 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 09:52:26 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:52:26 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-14 09:52:26 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 09:52:28 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-14 09:52:28 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:52:28 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 09:52:28 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:52:28 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 09:52:29 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-14 09:52:30 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-14 09:52:30 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-14 09:52:30 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-14 09:52:30 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-14 09:52:30 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:52:34 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:52:38 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:52:39 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:52:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:46 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:47 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:50 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-14 09:52:50 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:52:51 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-14 09:52:51 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:52:53 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:52:54 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:52:55 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:52:56 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:52:56 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:52:56 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:52:56 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:52:56 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:52:57 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:52:57 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:52:57 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-14 09:52:57 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:52:58 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:52:58 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:52:58 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-14 09:52:58 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:52:58 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:52:59 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:01 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:01 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:01 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:53:01 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 09:53:01 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:53:01 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 09:53:01 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:01 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:01 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:01 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:02 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:02 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:02 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-14 09:53:02 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:03 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:03 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:03 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-14 09:53:03 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:05 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:06 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:07 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:08 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:08 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:09 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:09 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:09 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:11 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:11 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:11 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-14 09:53:11 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:12 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:12 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:12 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-14 09:53:12 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:12 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:15 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:53:18 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:53:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 09:53:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 09:53:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 09:53:19 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-14 09:53:19 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:21 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:21 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:21 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:21 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:22 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:22 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:22 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-14 09:53:22 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:23 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:23 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:23 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:24 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:24 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:24 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:24 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-14 09:53:24 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:26 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:26 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:26 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:26 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:27 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:27 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:27 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:28 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:28 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:28 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-14 09:53:28 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:28 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:28 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:28 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:53:29 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:29 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:29 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:29 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:30 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:30 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:30 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:31 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:31 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:31 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:53:31 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:31 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:31 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-14 09:53:31 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:32 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:33 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:53:33 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 09:53:33 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:53:33 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 09:53:34 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:34 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:34 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:34 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:53:34 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 09:53:34 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:53:34 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 09:53:35 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:35 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:35 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-14 09:53:35 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:36 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:38 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:38 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:38 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:39 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:53:40 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:40 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:40 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-14 09:53:40 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 09:53:42 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 09:53:46 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 09:53:46 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:53:46 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-14 09:53:46 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 09:53:46 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 09:53:46 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 09:53:48 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 09:53:48 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 09:53:48 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:53:48 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:53:50 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-14 09:53:52 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-14 09:53:54 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:53:54 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-14 09:53:54 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 09:53:55 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-14 09:53:56 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-14 09:53:57 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-14 09:53:57 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-14 09:53:59 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-14 09:54:00 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-14 09:54:02 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-14 09:54:04 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-14 09:54:04 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:54:04 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 09:54:04 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 09:54:04 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 09:54:15 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 09:54:18 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 09:54:18 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-14 09:54:18 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 09:54:19 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-14 09:54:20 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-14 09:54:21 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-14 09:54:22 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-14 09:54:23 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-14 09:55:05 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-14 09:55:07 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-14 09:55:07 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-14 09:55:07 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-14 09:55:07 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:55:07 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:55:12 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-14 09:55:13 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-14 09:55:13 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-14 09:55:13 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-14 09:55:13 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:55:15 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 09:55:29 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-14 09:55:29 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-14 09:55:29 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-14 09:55:29 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-14 09:55:29 INFO  BaseClass:88 - Closing browser...
+2025-02-14 09:55:31 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:04:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ravon\Desktop\CloudBerry Tools\NinjaV4\testng.xml"
+2025-02-14 10:04:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ravon\Desktop\CloudBerry Tools\NinjaV4\testng.xml
+
+2025-02-14 10:04:37 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 10:04:37 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 10:04:37 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 10:04:37 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:04:37 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 10:04:37 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:04:37 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 10:04:37 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:04:37 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 10:04:43 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:04:43 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:04:49 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:04:50 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-14 10:04:50 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-14 10:04:50 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:04:50 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-14 10:04:50 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-14 10:04:50 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-14 10:04:50 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-14 10:04:50 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-14 10:04:50 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-14 10:04:50 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-14 10:04:50 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-14 10:04:50 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-14 10:04:50 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-14 10:04:50 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:04:50 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:04:52 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:04:52 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 10:04:52 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:04:52 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 10:04:53 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:04:53 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 10:04:53 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:04:53 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 10:04:55 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:04:56 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:05:00 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:05:00 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-14 10:05:00 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-14 10:05:00 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-14 10:05:01 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-14 10:05:01 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-14 10:05:01 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-14 10:05:01 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:05:01 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:05:02 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:05:02 INFO  TC06_GifftCertificcate:18 - Starting test: testPurchaseAGiftCertificate
+2025-02-14 10:05:02 DEBUG TC06_GifftCertificcate:26 - Navigating to HomePage and clicking Gift Certificate link.
+2025-02-14 10:05:04 DEBUG TC06_GifftCertificcate:30 - Filling out gift certificate details.
+2025-02-14 10:05:05 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:05:05 INFO  TC06_GifftCertificcate:18 - Starting test: testPurchaseAGiftCertificate
+2025-02-14 10:05:05 DEBUG TC06_GifftCertificcate:26 - Navigating to HomePage and clicking Gift Certificate link.
+2025-02-14 10:05:07 DEBUG TC06_GifftCertificcate:30 - Filling out gift certificate details.
+2025-02-14 10:05:07 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:05:07 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 10:05:07 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:05:07 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 10:05:09 DEBUG TC06_GifftCertificcate:38 - Verifying purchase confirmation message.
+2025-02-14 10:05:09 INFO  TC06_GifftCertificcate:40 - Purchase success message status: true
+2025-02-14 10:05:09 INFO  TC06_GifftCertificcate:44 - Gift certificate successfully purchased.
+2025-02-14 10:05:09 INFO  TC06_GifftCertificcate:55 - Test execution completed: testPurchaseAGiftCertificate
+2025-02-14 10:05:09 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:05:09 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:05:09 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 10:05:09 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:05:09 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 10:05:10 DEBUG TC06_GifftCertificcate:38 - Verifying purchase confirmation message.
+2025-02-14 10:05:10 INFO  TC06_GifftCertificcate:40 - Purchase success message status: true
+2025-02-14 10:05:10 INFO  TC06_GifftCertificcate:44 - Gift certificate successfully purchased.
+2025-02-14 10:05:10 INFO  TC06_GifftCertificcate:55 - Test execution completed: testPurchaseAGiftCertificate
+2025-02-14 10:05:10 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:05:12 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:05:14 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:05:14 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 10:05:14 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:05:14 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 10:05:15 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:05:15 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-14 10:05:15 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 10:05:17 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-14 10:05:17 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:05:20 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:05:20 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:05:20 INFO  TC06_GifftCertificcate:18 - Starting test: testPurchaseAGiftCertificate
+2025-02-14 10:05:20 DEBUG TC06_GifftCertificcate:26 - Navigating to HomePage and clicking Gift Certificate link.
+2025-02-14 10:05:22 DEBUG TC06_GifftCertificcate:30 - Filling out gift certificate details.
+2025-02-14 10:05:24 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:05:24 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-14 10:05:24 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 10:05:24 DEBUG TC06_GifftCertificcate:38 - Verifying purchase confirmation message.
+2025-02-14 10:05:24 INFO  TC06_GifftCertificcate:40 - Purchase success message status: true
+2025-02-14 10:05:24 INFO  TC06_GifftCertificcate:44 - Gift certificate successfully purchased.
+2025-02-14 10:05:24 INFO  TC06_GifftCertificcate:55 - Test execution completed: testPurchaseAGiftCertificate
+2025-02-14 10:05:24 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:05:26 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-14 10:05:26 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-14 10:05:27 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-14 10:05:27 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-14 10:05:27 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-14 10:05:27 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-14 10:05:27 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:05:27 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:05:27 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 10:05:27 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:05:27 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 10:05:28 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:05:28 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 10:05:28 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:05:28 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 10:05:28 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-14 10:05:29 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-14 10:05:29 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-14 10:05:29 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-14 10:05:29 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-14 10:05:29 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:05:31 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:05:34 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:05:34 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 10:05:34 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:05:34 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 10:05:34 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:05:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:36 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:05:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:39 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:39 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:39 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:39 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:39 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:39 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-14 10:05:39 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:05:39 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:05:39 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-14 10:05:39 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 10:05:41 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-14 10:05:41 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:05:43 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-14 10:05:44 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:05:44 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-14 10:05:44 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-14 10:05:44 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-14 10:05:44 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-14 10:05:44 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:05:46 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:05:47 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:05:47 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:05:48 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:05:48 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:05:48 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-14 10:05:48 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:05:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:05:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:05:48 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-14 10:05:48 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:05:49 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:05:50 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:05:50 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:05:50 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 10:05:50 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:05:50 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 10:05:51 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:05:51 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:05:51 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:05:52 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:05:52 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:05:52 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:05:53 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:05:53 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:05:53 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-14 10:05:53 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:05:53 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:05:53 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:05:53 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-14 10:05:53 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:05:54 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:05:54 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:05:56 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:05:56 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:05:56 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:05:56 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:05:57 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:05:57 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:05:58 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:05:58 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:05:58 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-14 10:05:58 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:05:58 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:05:58 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:05:58 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-14 10:05:58 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:06:00 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:06:00 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:03 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:04 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:04 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:04 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:04 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:04 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-14 10:06:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-14 10:06:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-14 10:06:05 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-14 10:06:05 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:06:07 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:07 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:08 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:08 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:08 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:08 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:08 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:09 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:09 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:09 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-14 10:06:09 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:06:09 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:09 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:09 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-14 10:06:09 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:06:10 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:10 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:10 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:10 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:11 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:11 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:11 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:11 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-14 10:06:11 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:06:12 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:13 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:13 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:13 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:13 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:13 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:13 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:13 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:14 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:14 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:14 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:14 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:14 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:06:14 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:14 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:14 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-14 10:06:14 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:06:15 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:15 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:15 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-14 10:06:15 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:06:15 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:06:15 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 10:06:15 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:06:15 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 10:06:15 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:15 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:17 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:17 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:17 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:18 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:18 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:06:18 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:18 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:18 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-14 10:06:18 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:06:18 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:18 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:19 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:20 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:20 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:20 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:06:20 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:20 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:20 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:21 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:06:21 INFO  TC05_AddToWish:19 - Starting test: testAddToWishList
+2025-02-14 10:06:21 DEBUG TC05_AddToWish:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 10:06:21 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:21 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:21 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-14 10:06:21 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-14 10:06:22 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-14 10:06:23 DEBUG TC05_AddToWish:31 - Selecting a product from the category.
+2025-02-14 10:06:23 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-14 10:06:23 INFO  TC02_Login:46 - Login success status: true
+2025-02-14 10:06:23 INFO  TC02_Login:50 - Login verification passed.
+2025-02-14 10:06:24 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:06:24 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 10:06:24 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:06:24 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 10:06:24 DEBUG TC05_AddToWish:35 - Adding product to the wishlist.
+2025-02-14 10:06:24 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-14 10:06:24 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-14 10:06:24 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:06:25 DEBUG TC05_AddToWish:39 - Verifying success message for adding to wishlist.
+2025-02-14 10:06:25 INFO  TC05_AddToWish:41 - Wishlist success message status: true
+2025-02-14 10:06:25 INFO  TC05_AddToWish:45 - Product successfully added to wishlist.
+2025-02-14 10:06:25 INFO  TC05_AddToWish:56 - Test execution completed: testAddToWishList
+2025-02-14 10:06:25 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:06:27 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:06:29 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:06:29 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-14 10:06:29 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:06:29 INFO  BaseClass:51 - Launching Chrome Browser
+2025-02-14 10:06:29 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:06:29 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 10:06:29 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:06:29 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 10:06:30 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:06:30 INFO  TC05_AddToWish:19 - Starting test: testAddToWishList
+2025-02-14 10:06:30 DEBUG TC05_AddToWish:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 10:06:32 DEBUG TC05_AddToWish:31 - Selecting a product from the category.
+2025-02-14 10:06:32 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:06:35 DEBUG TC05_AddToWish:35 - Adding product to the wishlist.
+2025-02-14 10:06:36 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:06:36 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-14 10:06:36 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 10:06:37 DEBUG TC05_AddToWish:39 - Verifying success message for adding to wishlist.
+2025-02-14 10:06:37 INFO  TC05_AddToWish:41 - Wishlist success message status: true
+2025-02-14 10:06:37 INFO  TC05_AddToWish:45 - Product successfully added to wishlist.
+2025-02-14 10:06:37 INFO  TC05_AddToWish:56 - Test execution completed: testAddToWishList
+2025-02-14 10:06:37 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:06:38 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-14 10:06:40 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:06:40 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-14 10:06:41 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:06:41 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-14 10:06:41 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:06:41 INFO  BaseClass:55 - Launching Edge Browser
+2025-02-14 10:06:41 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-14 10:06:43 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:06:43 INFO  TC05_AddToWish:19 - Starting test: testAddToWishList
+2025-02-14 10:06:43 DEBUG TC05_AddToWish:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 10:06:44 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-14 10:06:44 DEBUG TC05_AddToWish:31 - Selecting a product from the category.
+2025-02-14 10:06:45 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:06:46 DEBUG TC05_AddToWish:35 - Adding product to the wishlist.
+2025-02-14 10:06:47 DEBUG TC05_AddToWish:39 - Verifying success message for adding to wishlist.
+2025-02-14 10:06:47 INFO  TC05_AddToWish:41 - Wishlist success message status: true
+2025-02-14 10:06:47 INFO  TC05_AddToWish:45 - Product successfully added to wishlist.
+2025-02-14 10:06:47 INFO  TC05_AddToWish:56 - Test execution completed: testAddToWishList
+2025-02-14 10:06:47 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:06:49 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:06:49 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-14 10:06:49 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 10:06:49 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-14 10:06:50 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-14 10:06:51 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:06:51 INFO  BaseClass:38 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-14 10:06:51 DEBUG BaseClass:45 - Successfully loaded config.properties file.
+2025-02-14 10:06:51 INFO  BaseClass:59 - Launching Firefox Browser
+2025-02-14 10:06:52 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-14 10:06:52 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-14 10:06:53 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-14 10:06:55 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-14 10:07:00 DEBUG BaseClass:68 - WebDriver instance set successfully.
+2025-02-14 10:07:02 INFO  BaseClass:76 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-14 10:07:02 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-14 10:07:02 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-14 10:07:04 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-14 10:07:05 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-14 10:07:05 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-14 10:07:06 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-14 10:07:07 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-14 10:07:57 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-14 10:07:58 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-14 10:07:58 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-14 10:07:58 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-14 10:07:58 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:07:59 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:08:03 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-14 10:08:05 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-14 10:08:05 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-14 10:08:05 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-14 10:08:05 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:08:06 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
+2025-02-14 10:08:13 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-14 10:08:14 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-14 10:08:14 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-14 10:08:14 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-14 10:08:14 INFO  BaseClass:88 - Closing browser...
+2025-02-14 10:08:16 INFO  BaseClass:91 - Browser closed and WebDriver instance removed.
