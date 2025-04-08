@@ -26,3 +26,14 @@ Make sure to include the following dependency in your pom.xml (Maven) file:
     <artifactId>poi-ooxml</artifactId>
     <version>5.4.0</version>
 </dependency>
+```
+## 📦 Apache POI OOXML (for .xlsx format Excel files):
+- Purpose: This dependency adds support for handling .xlsx (Office Open XML) format files, which is the modern Excel file format.
+- Usage: It allows reading, writing, and modifying .xlsx files specifically, complementing the poi dependency which is for the older .xls format.
+```
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>5.4.0</version>
+</dependency>
+```
