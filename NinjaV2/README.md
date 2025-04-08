@@ -16,7 +16,8 @@ This project is built for data-driven testing with features like Excel data inpu
 ├── 📈 ExtentReports/      # Generates interactive test reports
 ```
 
-📦 Apache POI Dependency
+##📦 Apache POI Dependency
+
 This project uses Apache POI for reading and writing Excel files.
 Make sure to include the following dependency in your pom.xml (Maven) file:
 ```
